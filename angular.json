@@ -12,7 +12,7 @@
       },
       "root": "",
       "sourceRoot": "src",
-      "prefix": "app",
+      "prefix": "edutravel",
       "architect": {
         "build": {
           "builder": "@angular/build:application",
